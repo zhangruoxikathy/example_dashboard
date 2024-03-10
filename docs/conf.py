@@ -106,7 +106,7 @@ html_theme_options = {
     "use_edit_page_button": False,
     "use_issues_button": True,
 }
-html_logo = "../assets/my_logo.png"
+html_logo = "../assets/my_logo.jpg"
 html_title = "Kathy's Page Template"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
